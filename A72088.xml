@@ -1,0 +1,161 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Protestation de treshaut et trespuissant Prince Francois, Fils &amp; Frere de Roy duc d'Alencon &amp; d'Eureux, comte de Dreux, du Perche, &amp;c. Lieutenant general pour le Roy en tous ses pays, terre &amp; Seigneuries, protecteur de la liberté de la couronne'de France opprimee parles estrangers.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1575</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A72088</idno>
+            <idno type="STC">STC 11310.5</idno>
+            <idno type="STC">ESTC S125226</idno>
+            <idno type="EEBO-CITATION">99900505</idno>
+            <idno type="PROQUEST">99900505</idno>
+            <idno type="VID">173405</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A72088)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 173405)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2041:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Protestation de treshaut et trespuissant Prince Francois, Fils &amp; Frere de Roy duc d'Alencon &amp; d'Eureux, comte de Dreux, du Perche, &amp;c. Lieutenant general pour le Roy en tous ses pays, terre &amp; Seigneuries, protecteur de la liberté de la couronne'de France opprimee parles estrangers.</title>
+               </titleStmt>
+               <extent>11, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Nouuellement imprime à Alencon [i.e. London, T. Vautrollier] auec priuilege,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1575.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: Signé Francoys.</note>
+                  <note>Actual place of publication and printer's name from STC.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library, Washington, D.C.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Anjou, François, --  duc d', 1554-1584 --  Early works to 1800.</term>
+               <term>France --  History --  Henry III, 1574-1589 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="frm">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:173405:1"/>
+            <!-- PDF PAGE 64 -->
+            <pb facs="tcp:173405:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 64 -->
+            <p>
+               <hi>PROTESTATI<g ref="char:EOLhyphen"/>ON DE TRESHAVT ET TRESPVISSANT PRINCE François, Fils &amp; Frere de Roy: Duc d'Alençon &amp; d'Eureux, Comte de Dreux, du Per<g ref="char:EOLhyphen"/>che, &amp;c.</hi>
+            </p>
+            <p>LIEVTENANT GENERAL POVR LE ROY EN TOVS SES PAYS, Terres &amp; Seigneuries, protecteur de la liberté de la couronne'de France opprimee par les eſtrangers.</p>
+            <p>Nouuellement Imprimé à Alençon auec Priuilege. 1575</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:173405:2"/>
+            <!-- PDF PAGE 65 -->
+            <pb n="2" facs="tcp:173405:2"/>
+            <!-- PDF PAGE 65 -->
+            <head>PROTESTATI<g ref="char:EOLhyphen"/>ON DE TRESHAVTET Treſpuiſſant Prince, Francois Fils &amp; Frere De Roy, Duc D'Alencon, &amp;c.</head>
+            <p>
+               <seg rend="decorInit">F</seg>Rançois, Fils &amp; Frere de Roy, Duc d'Alençon, Pre<g ref="char:EOLhyphen"/>mier Pair de france, &amp;c. A toꝰ ceux qu'il apartiendra, e Salut. Scauoir faiſons que nous deuëment aduertis &amp; informez que de l'obſeruation des loix depend la conſeruation de tous Royaumes &amp; Sei<g ref="char:EOLhyphen"/>gneuries, &amp; par ce moyenſe nourrit &amp; entretientla paix entre les ſubiectz: ain<g ref="char:EOLhyphen"/>ſi quand elles ne ſont gardees en la pu<g ref="char:EOLhyphen"/>reté qu'elles nous ont eſté laiſſees par nos deuanciers, &amp; qu'elles viennent à languir, &amp; ſont comme mortes &amp; enſe<g ref="char:EOLhyphen"/>uelies, les ſubiects ſe licencient &amp; diſ<g ref="char:EOLhyphen"/>penſent, &amp; s'abandonnent ayſeementà
+<pb n="4" facs="tcp:173405:3"/>
+               <!-- PDF PAGE 66 -->toutes diſſolutions leſquelles cauſentle pluſſouuentles guerres ciuilles: &amp; final leme<g ref="char:cmbAbbrStroke">̄</g>t la deſt ruction des Royaumes, Re publiques &amp; Communautez, ſi pro<g ref="char:cmbAbbrStroke">̄</g>p<g ref="char:EOLhyphen"/>teme<g ref="char:cmbAbbrStroke">̄</g>tilny eſt pourueu &amp; remedié par la diuine bo<g ref="char:cmbAbbrStroke">̄</g>té de Dieu, qui ſuſcite qua<g ref="char:cmbAbbrStroke">̄</g>d illuy plaiſt dexcelle<g ref="char:cmbAbbrStroke">̄</g>s &amp; heroiques per<g ref="char:EOLhyphen"/>ſonages, pour ſ'oppoſer à la tyra<g ref="char:cmbAbbrStroke">̄</g>nie de ceux, qui ne demandent que de mettre toutes choſes en confuſion pours enri<g ref="char:EOLhyphen"/>chir à quelque prix que ſe ſoit du ſang &amp; ſueur des poures, ons emparer deſditz Royaumes &amp; Seigneuries. Ce que noꝰ apprenons par les ruines dinfinis roy<g ref="char:EOLhyphen"/>aumes floriſſans qui ont par ce moyen prins fin. Qui doit ſeruir dexemple à tous vrays françoys, pour les ſtimuler &amp; inciter à remettre ſus les ancie<g ref="char:cmbAbbrStroke">̄</g>nes loix &amp; empeſcher chacun en ſon endroit &amp; ſelon les moyens que Dieu luy a depar<g ref="char:EOLhyphen"/>ty, quil ne tombe entre les mai<g ref="char:cmbAbbrStroke">̄</g>s de ceux qui l'o<g ref="char:cmbAbbrStroke">̄</g>t guetté de ſi long temps, &amp; pour y paruenir nourriſſent &amp; entretiennent
+<pb n="5" facs="tcp:173405:3"/>
+               <!-- PDF PAGE 66 -->le diſcord que nous voyons, ſe cou<g ref="char:EOLhyphen"/>ura<g ref="char:cmbAbbrStroke">̄</g>s du different qu ily a de la Religion. Lequel ils ſeroyent bie<g ref="char:cmbAbbrStroke">̄</g> marrys de veoir appaiſé, comme ils eſt veu &amp; cogneu par les choſes paſſees, afin de do<g ref="char:cmbAbbrStroke">̄</g>ner cou leur aux tailles, impoſtz &amp; ſubſides qu'ils inuententtous les iours en leuant ſur le Poure peuple, la Nobleſſe &amp; le Clergé au nom du Roy, &amp; ſous ombre del acquitter, que cela ne tend qu à en<g ref="char:EOLhyphen"/>richir quelque peu des perſonnes preſ<g ref="char:EOLhyphen"/>que tous eſtrangers, qui ſe ſont empa<g ref="char:EOLhyphen"/>rez du Roy &amp; des principaux eſtatz, &amp; gouuernementz de ce Royaume contre les loix d'iceluy. Toutes leſquelles en<g ref="char:EOLhyphen"/>trepriſes ne pouuans trouuer bonnes, auons eſté calomniez enuers le Roy no ſtre treſcher Seigneur &amp; frere, &amp; à ceſte cauſe en danger de noſtre vie, &amp; detenu co<g ref="char:cmbAbbrStroke">̄</g>me chacun ſcait. Ce que nous auo<g ref="char:cmbAbbrStroke">̄</g>s ſouffert, eſperant que le Roy remedi<g ref="char:EOLhyphen"/>eroit à tant de miſeres, &amp; ne ſe laiſſeroit plus circunuenir de tant de gens, &amp;
+<pb n="6" facs="tcp:173405:4"/>
+               <!-- PDF PAGE 67 -->qu'il cognoiſtroit noſtre innocence. Mais voyans la playes empirer de iour en iour, &amp; perſonne n'eſtre plus indi<g ref="char:EOLhyphen"/>gnement traicté, que nous: &amp; que tant de Princes, Seigneurs &amp; Gentilshom<g ref="char:EOLhyphen"/>mes, gens de l'egliſe, Citadins &amp; Bour<g ref="char:EOLhyphen"/>geoys auoient les yeux fichez ſur nous, nous tendoient les mains &amp; imploroie<g ref="char:cmbAbbrStroke">̄</g>t noſtre ayde: eſtans vaincus de leurs prieres, &amp; co<g ref="char:cmbAbbrStroke">̄</g>patiſſans à leurs miſeres: nous nous sommes reſolus, poſtpoſans toute craincte de mort, qui nous eſtoit prochaine, eſſayer de ſortir de la ca<g ref="char:EOLhyphen"/>ptiuité où nous eſtions pour prendre la cauſe publicque en main, &amp; nous oppoſer aux pernicieux conſeilz des perturbateurs de ce Royaume: enquoy nous auons eſté tant fauoriſez de Dieu, que le xvj. iour de Septe<g ref="char:cmbAbbrStroke">̄</g>bre nous ſom<g ref="char:EOLhyphen"/>mes arriuez à noſtre ville de Dreux, où ſe ſont rendus à nous pluſieurs Seig<g ref="char:EOLhyphen"/>neurs &amp; Gentilshommes, &amp; autres tant du Clergé, que du tiers eſtat dece Roy<g ref="char:EOLhyphen"/>aume.
+<pb n="7" facs="tcp:173405:4"/>
+               <!-- PDF PAGE 67 -->Auſquels auons declaré noſtre vouloir &amp; inte<g ref="char:cmbAbbrStroke">̄</g>tion, n'eſtre d'entrepren<g ref="char:EOLhyphen"/>dre aucunement ſur l'authorité du Roy noſtre dit Seigneur &amp; Frere: laquelle nous deſirons co<g ref="char:cmbAbbrStroke">̄</g>ſeruer &amp; accroiſtre de noſtre pouuoir. Mais ſeulementnous e<g ref="char:cmbAbbrStroke">̄</g>ployer de toutes nos forces, voire iuſ<g ref="char:EOLhyphen"/>ques à n'eſpargner noſtre vie &amp; biens pour dechaſſer les perturbateurs du re pos public: pourſuyure la iuſtice de tant de pilleries, larreci<g ref="char:cmbAbbrStroke">̄</g>s, homicides &amp; maſ<g ref="char:EOLhyphen"/>ſacres, inhumainement &amp; contre tout droict &amp; raiſon co<g ref="char:cmbAbbrStroke">̄</g>mys &amp; perpetrez au veu &amp; ſceu d'un chacun: deliurertant de Seigneurs, Gentilshommes &amp; autres conſtituez priſonniers, ou bannis à tort &amp; ſans cauſe: les remettre &amp; toutes autres ge<g ref="char:cmbAbbrStroke">̄</g>s de bien en leurs biens, eſtats &amp; honneurs: abolir toutes tailles, ſub<g ref="char:EOLhyphen"/>ſides &amp; impoſts mis ſur le poure peu<g ref="char:EOLhyphen"/>ple par la malice &amp; ſuggeſtion des e<g ref="char:EOLhyphen"/>ſtrangers, contre les anciennes loix &amp; ſtatuts de ce Royaume: entretenir la
+<pb n="8" facs="tcp:173405:5"/>
+               <!-- PDF PAGE 68 -->Nobleſſe &amp; Clergé en ſes priuileges, franchiſes &amp; libertéz anciennes: &amp; eſta<g ref="char:EOLhyphen"/>blir en France vne bonne, ſtable &amp; fer<g ref="char:EOLhyphen"/>me paix. Pour cefaire nous nente<g ref="char:cmbAbbrStroke">̄</g>dons vſer d aucuns moyens que de ceux deſ<g ref="char:EOLhyphen"/>quels nos predeceſſeurs ſe ſont aydez: &amp; qui ſont vſitez de tout temps en ce Royaume: quand il eſt queſtion de la re<g ref="char:EOLhyphen"/>formation de la Religion &amp; Iuſtice, qui ſont les deux colonnes de toute monar chie, pour remettre le Royaume en ſa premiere ſplendeur, dignité &amp; liber té, c'eſt aſſauoir par vne aſſemblee generalle, &amp; libre de troys eſtats de ce Royaume, conuoquee en lieu ſeur &amp; li<g ref="char:EOLhyphen"/>bre. De laquelletous eſtrangers ſoyent exclus. Proteſtant deuant Dieu (lequel nous appellons à noſtreayde, &amp; lequel auſſi nous nous aſſeurons quil guidera noſtre entrepriſe) n'eſtre eſmeuz ny in<g ref="char:EOLhyphen"/>duictz à ce faire d'aucune cupidité de vengeance priuee (combien que pour les torts qui nous ont eſté faicts nous
+<pb n="9" facs="tcp:173405:5"/>
+               <!-- PDF PAGE 68 -->en euſſions iuſte occaſio<g ref="char:cmbAbbrStroke">̄</g>) ou de gra<g ref="char:cmbAbbrStroke">̄</g>deur ou deſir de commander plus que nous ne faiſons &amp; ne nous appartient. Nous contentans, comme nous en auons bo<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>ne occaſion, des biens, authorité, &amp; grandeur que nous auons de la grace de Dieu &amp; de ſa benignité &amp; largeſſe, nous ayant fait naiſtre de Pere Roy, &amp; ordonné la ſeco<g ref="char:cmbAbbrStroke">̄</g>de perſonne de ce Roy<g ref="char:EOLhyphen"/>aume. Ques iladuie<g ref="char:cmbAbbrStroke">̄</g>t (à Dieune plaiſe) nous appeller auant que pouuoir veoir lafin &amp; execution de ceſte tant ſaincte entrepriſe, nous nous reputerons treſ<g ref="char:EOLhyphen"/>heureux d'auoir pour icelle employe noſtre vie, qui concerne le ſeruice de Dieu &amp; du Roy, la franchiſe &amp; liberté de la Nobleſſe &amp; du Clergé, le repos &amp; ſoulagement du Peuple, &amp; liberté de la patrie. Et pour oſter tout empeſche<g ref="char:EOLhyphen"/>ment, &amp; reunir les coeurs des naturels Françoys, nous les auons pris &amp; pre<g ref="char:EOLhyphen"/>nons en noſtre protection &amp; ſauuegar<g ref="char:EOLhyphen"/>de ta<g ref="char:cmbAbbrStroke">̄</g>t d'vne que d'autre religion, les pri<g ref="char:EOLhyphen"/>ant
+<pb n="10" facs="tcp:173405:6"/>
+               <!-- PDF PAGE 69 -->&amp; exhorta<g ref="char:cmbAbbrStroke">̄</g>tau nom de Dieuſe com<g ref="char:EOLhyphen"/>porter les vns auec les autres, comme freres, pare<g ref="char:cmbAbbrStroke">̄</g>s &amp; co<g ref="char:cmbAbbrStroke">̄</g>citoyens, ſans ſe pro<g ref="char:EOLhyphen"/>uoquer par iniures ou autrement, iuſ<g ref="char:EOLhyphen"/>ques à ceque par les Eſtats generaux, &amp; aſſemblee de Co<g ref="char:cmbAbbrStroke">̄</g>cile, il ſoit pourueu ſur le faict de la Religion: permettre &amp; laiſſer iouir vng chacun de l'excercice d'icelle. Prions tous Roys, Roynes, Prin<g ref="char:EOLhyphen"/>ces, &amp; Potentatz, Republicques, &amp; tous autres voyſins, alliez, &amp; confederez de ce Royaume &amp; Couronne, qu'ils nous fauorizent, aydent &amp; ſecourent en ceſte tant ſaincte &amp; louable entrepriſe, dene prendre aucune opinion de nous que celle que teſmoignons par ceſte preſen te proteſtation. Prions auſſi tous Prin<g ref="char:EOLhyphen"/>ces, Seigneurs, Gentilshommes, Bour<g ref="char:EOLhyphen"/>geoys, Villes, &amp; tous autres ſubiects de la Couronne, denous venirtrouuer &amp; accompaigner, ſecourir des viures, ar<g ref="char:EOLhyphen"/>mes, argent, &amp; autres leurs moyens, à ceque par leur faute &amp; negligence, l'e<g ref="char:EOLhyphen"/>xecution
+<pb n="11" facs="tcp:173405:6"/>
+               <!-- PDF PAGE 69 -->de noſtre entrepriſe ſi haute, neſoit differee &amp; la paix retardee. De<g ref="char:EOLhyphen"/>clarant nos ennemys ceux tant ſeule<g ref="char:EOLhyphen"/>me<g ref="char:cmbAbbrStroke">̄</g>t, qui par force s'oppoſeront &amp; tas<g ref="char:EOLhyphen"/>chero<g ref="char:cmbAbbrStroke">̄</g>td empeſcher noſtre entre<g ref="char:EOLhyphen"/>priſe, &amp; nos amys, ceux quileur courrontſus.</p>
+            <closer>
+               <dateline>Faict à Dreux <date>le xvij. Sep<g ref="char:EOLhyphen"/>temb. 1575.</date>
+               </dateline>
+               <signed>Signé Francoys.</signed>
+            </closer>
+            <pb facs="tcp:173405:7"/>
+            <!-- PDF PAGE 70 -->
+            <pb facs="tcp:173405:7"/>
+            <!-- PDF PAGE 70 -->
+         </div>
+      </body>
+   </text>
+</TEI>
